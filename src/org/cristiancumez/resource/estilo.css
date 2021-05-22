@@ -1,0 +1,30 @@
+                      
+/* 
+    Created on : Apr 21, 2021, 10:45:10 AM
+    Author     : 50245
+*/
+
+.ventanaPrincipal{
+    
+  
+    -fx-background-color:#455A64;
+    
+}
+
+.operadores{
+    
+    -fx-background-color:#607D8B;
+    
+    
+}
+
+.fondo {
+    
+     -fx-background-color:#B0BEC5;
+     -fx-border-left-color: #B0BEC5;
+     -fx-border-radius: 2000px;
+     
+}
+
+
+
